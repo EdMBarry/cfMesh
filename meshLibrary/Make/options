@@ -12,6 +12,13 @@ ifeq (OpenFOAM,$(findstring OpenFOAM,$(WM_PROJECT)))
         CFMESH_MACROS =
         LIBS =
     endif
+    
+    #if defined(WIN32) || defined(WIN64)
+      LIBS = \
+          -lmeshTools \
+          -ledgeMesh \
+          -ltriSurface
+    #endif
 endif
 
 ifeq ($(WM_PROJECT), foam)
