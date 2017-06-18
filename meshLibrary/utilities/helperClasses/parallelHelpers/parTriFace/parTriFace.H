@@ -36,7 +36,7 @@ SourceFiles
 #define parTriFace_H
 
 #include "label.H"
-#include "point.H"
+#include "point.T.H"
 #include "triangle.H"
 #include "contiguous.H"
 

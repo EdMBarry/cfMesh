@@ -27,7 +27,7 @@ Description
 
 #include "polyMeshGenFaces.H"
 #include "faceIOList.H"
-#include "IOPtrList.H"
+#include "IOPtrList.T.H"
 #include "IOobjectList.H"
 #include "faceSet.H"
 #include "demandDrivenData.H"

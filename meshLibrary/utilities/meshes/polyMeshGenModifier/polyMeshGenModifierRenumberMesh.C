@@ -28,7 +28,7 @@ Description
 #include "polyMeshGenModifier.H"
 #include "demandDrivenData.H"
 #include "polyMeshGenAddressing.H"
-#include "SLList.H"
+#include "SLList.T.H"
 
 //#define DEBUG_ZIPUP
 

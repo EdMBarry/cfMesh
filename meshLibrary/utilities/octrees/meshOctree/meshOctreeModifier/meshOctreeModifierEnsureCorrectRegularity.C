@@ -26,7 +26,7 @@ Description
 \*---------------------------------------------------------------------------*/
 
 #include "meshOctreeModifier.H"
-#include "HashSet.H"
+#include "HashSet.T.H"
 
 # ifdef USE_OMP
 #include <omp.h>

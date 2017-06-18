@@ -40,7 +40,7 @@ SourceFiles
 #include "meshSubset.H"
 #include "pointField.H"
 #include "DynList.H"
-#include "Map.H"
+#include "Map.T.H"
 
 namespace Foam
 {

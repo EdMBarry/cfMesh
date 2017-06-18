@@ -39,7 +39,7 @@ SourceFiles
 
 #include "edgeLongList.H"
 #include "meshSubset.H"
-#include "Map.H"
+#include "Map.T.H"
 
 namespace Foam
 {

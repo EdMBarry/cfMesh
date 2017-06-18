@@ -35,7 +35,7 @@ SourceFiles
 #ifndef surfaceOptimizer_H
 #define surfaceOptimizer_H
 
-#include "point.H"
+#include "point.T.H"
 #include "triFace.H"
 #include "DynList.H"
 

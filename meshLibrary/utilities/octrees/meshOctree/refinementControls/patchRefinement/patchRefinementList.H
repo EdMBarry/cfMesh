@@ -35,7 +35,7 @@ SourceFiles
 #define patchRefinementList_H
 
 #include "patchRefinement.H"
-#include "List.H"
+#include "List.T.H"
 
 // * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * //
 

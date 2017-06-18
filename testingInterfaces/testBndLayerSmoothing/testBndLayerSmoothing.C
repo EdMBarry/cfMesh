@@ -34,7 +34,7 @@ Description
 #include "meshOptimizer.H"
 #include "boundaryLayers.H"
 #include "refineBoundaryLayers.H"
-#include "Time.H"
+#include "Time.T.H"
 #include "polyMeshGen.H"
 #include "meshSurfaceEngine.H"
 #include "helperFunctions.H"
@@ -44,7 +44,7 @@ Description
 #include "boundaryLayerOptimisation.H"
 #include "extrudeLayer.H"
 #include "polyMeshGenChecks.H"
-#include "HashSet.H"
+#include "HashSet.T.H"
 
 using namespace Foam;
 

@@ -38,7 +38,7 @@ Description
 #include "polyMeshGenAddressing.H"
 #include "polyMeshGenChecks.H"
 #include "labelledPoint.H"
-#include "FIFOStack.H"
+#include "FIFOStack.T.H"
 
 #include <map>
 #include <stdexcept>

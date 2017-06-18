@@ -33,7 +33,7 @@ Description
 #include "helperFunctions.H"
 #include "meshOctree.H"
 #include "meshOctreeCreator.H"
-#include "HashSet.H"
+#include "HashSet.T.H"
 
 # ifdef USE_OMP
 #include <omp.h>

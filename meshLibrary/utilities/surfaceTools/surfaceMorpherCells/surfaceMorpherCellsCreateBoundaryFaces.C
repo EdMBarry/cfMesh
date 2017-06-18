@@ -33,7 +33,7 @@ Description
 //#define DEBUGMorph
 
 # ifdef DEBUGMorph
-#include "HashSet.H"
+#include "HashSet.T.H"
 # endif
 
 // * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * //

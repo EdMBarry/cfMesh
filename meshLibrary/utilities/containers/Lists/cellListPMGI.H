@@ -29,7 +29,7 @@ Description
 
 // * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * //
 
-#include "SubList.H"
+#include "SubList.T.H"
 
 namespace Foam
 {

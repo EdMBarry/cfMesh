@@ -40,7 +40,7 @@ SourceFiles
 #define checkNonMappableCellConnections_H
 
 #include "polyMeshGenModifier.H"
-#include "HashSet.H"
+#include "HashSet.T.H"
 
 // * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * //
 

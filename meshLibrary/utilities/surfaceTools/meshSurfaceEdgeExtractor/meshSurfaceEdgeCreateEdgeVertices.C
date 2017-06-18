@@ -29,7 +29,7 @@ Description
 #include "polyMeshGenAddressing.H"
 #include "meshSurfaceEdgeExtractor.H"
 #include "meshOctree.H"
-#include "Map.H"
+#include "Map.T.H"
 
 #define DEBUGMapping
 

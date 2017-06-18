@@ -38,7 +38,7 @@ SourceFiles
 
 #include "regIOobject.H"
 #include "pointField.H"
-#include "Istream.H"
+#include "Istream.T.H"
 #include "Ostream.H"
 
 // * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * //

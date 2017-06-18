@@ -40,7 +40,7 @@ Description
 #include "labelledScalar.H"
 #include "labelledPoint.H"
 #include "refLabelledPoint.H"
-#include "HashSet.H"
+#include "HashSet.T.H"
 #include "triSurfacePartitioner.H"
 #include "triSurfaceClassifyEdges.H"
 

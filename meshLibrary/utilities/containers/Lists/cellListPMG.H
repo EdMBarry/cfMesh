@@ -37,7 +37,7 @@ SourceFiles
 #define cellListPMG_H
 
 #include "cellList.H"
-#include "Istream.H"
+#include "Istream.T.H"
 #include "Ostream.H"
 
 // * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * //

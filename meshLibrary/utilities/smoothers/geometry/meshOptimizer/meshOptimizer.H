@@ -40,7 +40,7 @@ SourceFiles
 #include "VRWGraph.H"
 #include "DynList.H"
 #include "partTet.H"
-#include "HashSet.H"
+#include "HashSet.T.H"
 #include "boundBox.H"
 
 // * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * //

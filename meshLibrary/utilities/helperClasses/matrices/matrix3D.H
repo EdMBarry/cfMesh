@@ -36,7 +36,7 @@ SourceFiles
 #define matrix3D_H
 
 #include "scalar.H"
-#include "FixedList.H"
+#include "FixedList.T.H"
 
 // * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * //
 

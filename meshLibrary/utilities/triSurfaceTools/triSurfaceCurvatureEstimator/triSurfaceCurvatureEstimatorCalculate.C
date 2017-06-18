@@ -29,9 +29,9 @@ Description
 #include "matrix3D.H"
 #include "quadricFitting.H"
 #include "helperFunctions.H"
-#include "HashSet.H"
+#include "HashSet.T.H"
 #include "boolList.H"
-#include "Map.H"
+#include "Map.T.H"
 #include "DynList.H"
 
 #include "OFstream.H"

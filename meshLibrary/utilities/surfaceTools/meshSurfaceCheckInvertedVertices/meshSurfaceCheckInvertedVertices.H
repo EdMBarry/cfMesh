@@ -38,7 +38,7 @@ SourceFiles
 #define meshSurfaceCheckInvertedVertices_H
 
 #include "polyMeshGenModifier.H"
-#include "HashSet.H"
+#include "HashSet.T.H"
 
 // * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * //
 

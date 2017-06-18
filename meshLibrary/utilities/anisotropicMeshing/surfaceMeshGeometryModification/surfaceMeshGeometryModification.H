@@ -37,7 +37,7 @@ SourceFiles
 #define surfaceMeshGeometryModification_H
 
 #include "coordinateModification.H"
-#include "point.H"
+#include "point.T.H"
 #include "typeInfo.H"
 #include "coordinateModifier.H"
 

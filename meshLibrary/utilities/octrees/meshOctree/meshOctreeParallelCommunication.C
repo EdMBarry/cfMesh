@@ -26,7 +26,7 @@ Description
 \*---------------------------------------------------------------------------*/
 
 #include "meshOctree.H"
-#include "HashSet.H"
+#include "HashSet.T.H"
 
 //#define OCTREE_DEBUG
 

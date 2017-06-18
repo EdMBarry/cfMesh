@@ -35,7 +35,7 @@ SourceFiles
 #define objectRefinementList_H
 
 #include "objectRefinement.H"
-#include "PtrList.H"
+#include "PtrList.T.H"
 
 // * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * //
 

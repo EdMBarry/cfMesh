@@ -26,7 +26,7 @@ License
 #include "polyMeshGenChecks.H"
 #include "polyMeshGenAddressing.H"
 #include "cell.H"
-#include "Map.H"
+#include "Map.T.H"
 
 # ifdef USE_OMP
 #include <omp.h>

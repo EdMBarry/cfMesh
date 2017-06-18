@@ -35,9 +35,9 @@ SourceFiles
 #define helperFunctionsTopologyManipulation_H
 
 #include "DynList.H"
-#include "face.H"
+#include "face.T.H"
 #include "boolList.H"
-#include "HashSet.H"
+#include "HashSet.T.H"
 
 // * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * //
 

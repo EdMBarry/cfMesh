@@ -29,7 +29,7 @@ Description
 #include "helperFunctionsPar.H"
 #include "DynList.H"
 #include "labelPair.H"
-#include "HashSet.H"
+#include "HashSet.T.H"
 
 # ifdef USE_OMP
 #include <omp.h>

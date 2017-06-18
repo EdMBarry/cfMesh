@@ -25,7 +25,7 @@ Description
 
 \*---------------------------------------------------------------------------*/
 
-#include "Map.H"
+#include "Map.T.H"
 #include "partTetMeshSimplex.H"
 
 //#define DEBUGSmooth

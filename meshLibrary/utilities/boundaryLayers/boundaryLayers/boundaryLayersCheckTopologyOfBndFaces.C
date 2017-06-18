@@ -29,7 +29,7 @@ Description
 #include "meshSurfaceEngine.H"
 #include "decomposeCells.H"
 #include "helperFunctions.H"
-#include "HashSet.H"
+#include "HashSet.T.H"
 
 #include <set>
 

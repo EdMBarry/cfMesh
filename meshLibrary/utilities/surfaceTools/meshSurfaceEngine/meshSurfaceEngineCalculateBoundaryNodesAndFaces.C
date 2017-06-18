@@ -31,7 +31,7 @@ Description
 #include "helperFunctions.H"
 #include "VRWGraphSMPModifier.H"
 #include "labelledPoint.H"
-#include "HashSet.H"
+#include "HashSet.T.H"
 
 #include <map>
 #include <set>

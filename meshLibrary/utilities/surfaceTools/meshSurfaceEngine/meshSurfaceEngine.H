@@ -36,12 +36,12 @@ SourceFiles
 #define meshSurfaceEngine_H
 
 #include "polyMeshGenModifier.H"
-#include "SubList.H"
+#include "SubList.T.H"
 #include "boolList.H"
 #include "DynList.H"
 #include "VRWGraph.H"
 #include "triangle.H"
-#include "Map.H"
+#include "Map.T.H"
 
 // * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * //
 

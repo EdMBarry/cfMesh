@@ -38,7 +38,7 @@ SourceFiles
 
 #include "polyMeshGenModifier.H"
 #include "meshSurfaceEngine.H"
-#include "HashSet.H"
+#include "HashSet.T.H"
 
 // * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * //
 

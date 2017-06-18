@@ -27,7 +27,7 @@ Description
 
 #include "sortEdgesIntoChains.H"
 #include "helperFunctions.H"
-#include "Map.H"
+#include "Map.T.H"
 
 //#define DEBUGSort
 

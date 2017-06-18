@@ -29,8 +29,8 @@ License
 #include "tetrahedron.H"
 #include "cell.H"
 #include "mathematicalConstants.H"
-#include "ListOps.H"
-#include "Map.H"
+#include "ListOps.T.H"
+#include "Map.T.H"
 
 # ifdef USE_OMP
 #include <omp.h>

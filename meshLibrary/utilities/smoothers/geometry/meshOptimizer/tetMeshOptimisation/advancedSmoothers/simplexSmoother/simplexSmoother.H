@@ -36,7 +36,7 @@ SourceFiles
 #ifndef simplexSmoother_H
 #define simplexSmoother_H
 
-#include "point.H"
+#include "point.T.H"
 #include "DynList.H"
 #include "partTet.H"
 #include "boundBox.H"

@@ -27,7 +27,7 @@ Description
 \*---------------------------------------------------------------------------*/
 
 #include "argList.H"
-#include "Time.H"
+#include "Time.T.H"
 #include "polyMeshGenModifier.H"
 #include "meshSurfaceOptimizer.H"
 #include "triSurf.H"

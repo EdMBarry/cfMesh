@@ -39,7 +39,7 @@ SourceFiles
 
 #include "label.H"
 #include "LongList.H"
-#include "FixedList.H"
+#include "FixedList.T.H"
 #include "bool.H"
 #include "error.H"
 

@@ -28,7 +28,7 @@ Description
 #include "demandDrivenData.H"
 #include "meshSurfaceOptimizer.H"
 #include "plane.H"
-#include "Map.H"
+#include "Map.T.H"
 #include "surfaceOptimizer.H"
 #include "helperFunctions.H"
 #include "partTriMeshSimplex.H"

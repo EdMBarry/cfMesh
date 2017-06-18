@@ -37,7 +37,7 @@ SourceFiles
 
 #include "label.H"
 #include "direction.H"
-#include "FixedList.H"
+#include "FixedList.T.H"
 #include "boundBox.H"
 #include "contiguous.H"
 

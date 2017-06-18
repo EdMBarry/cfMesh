@@ -36,7 +36,7 @@ SourceFiles
 #define hollowConeRefinement_H
 
 #include "objectRefinement.H"
-#include "point.H"
+#include "point.T.H"
 #include "typeInfo.H"
 
 // * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * //

@@ -37,7 +37,7 @@ SourceFiles
 
 #include "pointField.H"
 #include "edge.H"
-#include "FixedList.H"
+#include "FixedList.T.H"
 
 // * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * //
 

@@ -39,10 +39,10 @@ SourceFiles
 #include "labelLongList.H"
 #include "VRWGraph.H"
 #include "DynList.H"
-#include "HashSet.H"
+#include "HashSet.T.H"
 #include "labelledPoint.H"
 #include "triSurf.H"
-#include "Map.H"
+#include "Map.T.H"
 
 // * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * //
 

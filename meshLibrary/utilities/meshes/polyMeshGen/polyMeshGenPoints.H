@@ -40,7 +40,7 @@ SourceFiles
 # ifdef ExtendSpecific
 #include "foamTime.H"
 # else
-#include "Time.H"
+#include "Time.T.H"
 # endif
 #include "meshSubset.H"
 #include "pointFieldPMG.H"

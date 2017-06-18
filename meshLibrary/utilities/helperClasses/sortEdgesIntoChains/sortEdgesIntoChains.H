@@ -38,7 +38,7 @@ SourceFiles
 #include "DynList.H"
 #include "labelList.H"
 #include "edge.H"
-#include "Map.H"
+#include "Map.T.H"
 
 namespace Foam
 {
