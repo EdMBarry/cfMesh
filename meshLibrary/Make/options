@@ -14,9 +14,9 @@ ifeq (OpenFOAM,$(findstring OpenFOAM,$(WM_PROJECT)))
     endif
     
     #if defined(WIN32) || defined(WIN64)
+      CFMESH_MACROS += -DOpenCFDSpecific
       LIBS = \
           -lmeshTools \
-          -ledgeMesh \
           -ltriSurface
     #endif
 endif
