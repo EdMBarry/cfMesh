@@ -35,7 +35,7 @@ SourceFiles
 #define coordinateModificationList_H
 
 #include "coordinateModification.H"
-#include "PtrList.H"
+#include "PtrList.T.H"
 
 // * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * //
 

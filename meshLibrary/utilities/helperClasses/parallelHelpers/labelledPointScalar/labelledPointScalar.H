@@ -36,7 +36,7 @@ SourceFiles
 #define labelledPointScalar_H
 
 #include "label.H"
-#include "point.H"
+#include "point.T.H"
 #include "contiguous.H"
 
 // * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * //

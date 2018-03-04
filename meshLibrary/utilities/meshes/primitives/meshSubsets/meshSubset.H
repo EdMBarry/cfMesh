@@ -36,7 +36,7 @@ SourceFiles
 #define meshSubset_H
 
 #include "label.H"
-#include "HashSet.H"
+#include "HashSet.T.H"
 #include "VRWGraph.H"
 
 #include <set>

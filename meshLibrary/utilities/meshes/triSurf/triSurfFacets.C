@@ -27,7 +27,7 @@ Description
 
 #include "triSurfFacets.H"
 #include "pointIOField.H"
-#include "IOobjectList.H"
+#include "IOobjectList.T.H"
 #include "pointSet.H"
 #include "stringListOps.H"
 

@@ -40,7 +40,7 @@ SourceFiles
 #include "meshSurfacePartitioner.H"
 #include "DynList.H"
 #include "labelLongList.H"
-#include "Map.H"
+#include "Map.T.H"
 #include "labelPair.H"
 
 #include <map>

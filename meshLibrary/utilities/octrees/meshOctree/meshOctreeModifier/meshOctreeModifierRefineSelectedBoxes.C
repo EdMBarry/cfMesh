@@ -27,7 +27,7 @@ Description
 
 #include "meshOctreeModifier.H"
 #include "triSurf.H"
-#include "HashSet.H"
+#include "HashSet.T.H"
 #include "helperFunctions.H"
 #include "meshOctreeCubeCoordinatesScalar.H"
 

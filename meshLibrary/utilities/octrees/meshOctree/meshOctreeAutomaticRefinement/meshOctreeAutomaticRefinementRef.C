@@ -35,7 +35,7 @@ Description
 #include "helperFunctions.H"
 #include "meshOctreeModifier.H"
 
-#include "Map.H"
+#include "Map.T.H"
 
 # ifdef USE_OMP
 #include <omp.h>
@@ -47,7 +47,7 @@ Description
 #include "pointSet.H"
 #include "IOdictionary.H"
 #include "objectRegistry.H"
-#include "Time.H"
+#include "Time.T.H"
 # endif
 
 // * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * //

@@ -32,9 +32,9 @@ Description
 #ifndef IOLongListInstances_H
 #define IOLongListInstances_H
 
-#include "face.H"
+#include "face.T.H"
 #include "cell.H"
-#include "point.H"
+#include "point.T.H"
 #include "IOLongList.H"
 
 // * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * //

@@ -28,7 +28,7 @@ Description
 #include "refineBoundaryLayers.H"
 #include "meshSurfaceEngine.H"
 #include "demandDrivenData.H"
-#include "FixedList.H"
+#include "FixedList.T.H"
 #include "helperFunctions.H"
 
 //#define DEBUGLayer

@@ -38,7 +38,7 @@ SourceFiles
 
 #include "triSurf.H"
 #include "DynList.H"
-#include "HashSet.H"
+#include "HashSet.T.H"
 
 #include <map>
 

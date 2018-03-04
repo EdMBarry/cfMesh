@@ -35,7 +35,7 @@ Author
 #include "triSurf.H"
 #include "triSurfModifier.H"
 #include "demandDrivenData.H"
-#include "Pair.H"
+#include "Pair.T.H"
 
 using namespace Foam;
 

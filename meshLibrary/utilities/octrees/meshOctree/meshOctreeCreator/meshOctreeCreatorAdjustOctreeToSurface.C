@@ -34,7 +34,7 @@ Description
 #include "VRWGraph.H"
 #include "meshOctreeModifier.H"
 #include "helperFunctions.H"
-#include "HashSet.H"
+#include "HashSet.T.H"
 
 #include "coordinateModifier.H"
 #include "surfaceMeshGeometryModification.H"

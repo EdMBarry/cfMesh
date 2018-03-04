@@ -39,7 +39,7 @@ SourceFiles
 #include "meshOctreeSlot.H"
 #include "meshOctreeCube.H"
 #include "patchRefinementList.H"
-#include "Pair.H"
+#include "Pair.T.H"
 
 // * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * //
 

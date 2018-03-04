@@ -27,7 +27,7 @@ Description
 
 #include "polyMeshGenPoints.H"
 #include "pointIOField.H"
-#include "IOobjectList.H"
+#include "IOobjectList.T.H"
 #include "pointSet.H"
 
 namespace Foam

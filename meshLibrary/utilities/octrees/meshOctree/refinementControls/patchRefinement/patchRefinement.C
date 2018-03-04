@@ -27,7 +27,7 @@ Description
 
 #include "patchRefinement.H"
 #include "triSurf.H"
-#include "Istream.H"
+#include "Istream.T.H"
 #include "demandDrivenData.H"
 
 

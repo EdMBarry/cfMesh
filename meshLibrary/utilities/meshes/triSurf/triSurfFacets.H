@@ -43,7 +43,7 @@ SourceFiles
 #include "LongList.H"
 #include "labelledTri.H"
 #include "DynList.H"
-#include "Map.H"
+#include "Map.T.H"
 
 namespace Foam
 {

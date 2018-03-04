@@ -27,8 +27,8 @@ Description
 
 #include "boundaryPatch.H"
 #include "Ostream.H"
-#include "Istream.H"
-#include "token.H"
+#include "Istream.T.H"
+#include "token.T.H"
 #include "dictionary.H"
 #include "addToRunTimeSelectionTable.H"
 

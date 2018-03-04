@@ -33,7 +33,7 @@ Description
 #include "VRWGraphList.H"
 
 #include "labelledPair.H"
-#include "HashSet.H"
+#include "HashSet.T.H"
 
 #include <map>
 

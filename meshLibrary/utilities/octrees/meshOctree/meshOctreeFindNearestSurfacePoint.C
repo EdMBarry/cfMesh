@@ -29,7 +29,7 @@ Description
 #include "triSurf.H"
 #include "demandDrivenData.H"
 #include "helperFunctions.H"
-#include "HashSet.H"
+#include "HashSet.T.H"
 
 // #define DEBUGSearch
 

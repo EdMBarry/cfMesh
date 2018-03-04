@@ -53,9 +53,9 @@ SourceFiles
 #include "edgeList.H"
 #include "polyMeshGenCells.H"
 #include "boolList.H"
-#include "HashSet.H"
+#include "HashSet.T.H"
 #include "DynList.H"
-#include "Map.H"
+#include "Map.T.H"
 #include "VRWGraph.H"
 
 // * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * //

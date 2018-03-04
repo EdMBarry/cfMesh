@@ -40,9 +40,9 @@ SourceFiles
 #include "VRWGraph.H"
 #include "DynList.H"
 #include "partTet.H"
-#include "HashSet.H"
+#include "HashSet.T.H"
 #include "labelledPoint.H"
-#include "Map.H"
+#include "Map.T.H"
 
 // * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * //
 

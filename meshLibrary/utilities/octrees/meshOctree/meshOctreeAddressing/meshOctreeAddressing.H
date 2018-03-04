@@ -39,10 +39,10 @@ SourceFiles
 #include "FRWGraph.H"
 #include "VRWGraph.H"
 #include "meshOctreeCubeCoordinates.H"
-#include "face.H"
+#include "face.T.H"
 #include "edge.H"
 #include "DynList.H"
-#include "Map.H"
+#include "Map.T.H"
 
 // * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * //
 

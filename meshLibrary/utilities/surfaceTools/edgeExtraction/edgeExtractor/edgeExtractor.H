@@ -44,7 +44,7 @@ SourceFiles
 #include "boolList.H"
 #include "labelledPoint.H"
 #include "DynList.H"
-#include "Map.H"
+#include "Map.T.H"
 
 namespace Foam
 {

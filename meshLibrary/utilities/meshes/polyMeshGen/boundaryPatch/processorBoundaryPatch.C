@@ -29,8 +29,8 @@ Description
 #include "addToRunTimeSelectionTable.H"
 #include "dictionary.H"
 #include "Ostream.H"
-#include "Istream.H"
-#include "token.H"
+#include "Istream.T.H"
+#include "token.T.H"
 
 namespace Foam
 {

@@ -32,13 +32,13 @@ Description
 
 #include "argList.H"
 #include "refineBoundaryLayers.H"
-#include "Time.H"
+#include "Time.T.H"
 #include "polyMeshGen.H"
 #include "helperFunctions.H"
 #include "triSurfacePatchManipulator.H"
 
 #include "polyMeshGenChecks.H"
-#include "HashSet.H"
+#include "HashSet.T.H"
 
 using namespace Foam;
 

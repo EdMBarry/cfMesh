@@ -32,7 +32,7 @@ Description
 
 #include "argList.H"
 #include "meshOptimizer.H"
-#include "Time.H"
+#include "Time.T.H"
 #include "polyMeshGen.H"
 #include "triSurf.H"
 #include "coordinateModifier.H"

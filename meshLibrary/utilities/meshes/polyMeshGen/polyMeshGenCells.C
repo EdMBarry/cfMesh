@@ -27,7 +27,7 @@ Description
 
 #include "polyMeshGenCells.H"
 #include "polyMeshGenAddressing.H"
-#include "IOobjectList.H"
+#include "IOobjectList.T.H"
 #include "cellSet.H"
 #include "demandDrivenData.H"
 

@@ -24,7 +24,7 @@ License
 \*---------------------------------------------------------------------------*/
 
 #include "VRWGraphList.H"
-#include "token.H"
+#include "token.T.H"
 #include "labelList.H"
 
 // * * * * * * * * * * * * * * * IOstream Operators  * * * * * * * * * * * * //

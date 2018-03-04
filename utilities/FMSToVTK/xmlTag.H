@@ -38,7 +38,7 @@ Author
 #define XMLtag_H
 
 #include "OStringStream.H"
-#include "HashTable.H"
+#include "HashTable.T.H"
 
 // * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * //
 

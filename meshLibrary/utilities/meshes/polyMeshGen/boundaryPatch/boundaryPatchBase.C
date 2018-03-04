@@ -27,9 +27,9 @@ Description
 
 #include "boundaryPatchBase.H"
 #include "Ostream.H"
-#include "Istream.H"
-#include "token.H"
-#include "IOPtrList.H"
+#include "Istream.T.H"
+#include "token.T.H"
+#include "IOPtrList.T.H"
 #include "dictionary.H"
 
 namespace Foam

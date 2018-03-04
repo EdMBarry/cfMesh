@@ -37,7 +37,7 @@ SourceFiles
 
 #include "polyMeshGen.H"
 #include "boolList.H"
-#include "HashSet.H"
+#include "HashSet.T.H"
 
 // * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * //
 

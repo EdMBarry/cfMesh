@@ -27,8 +27,8 @@ Description
 
 #include "meshSurfaceEngine.H"
 #include "demandDrivenData.H"
-#include "Map.H"
-#include "HashSet.H"
+#include "Map.T.H"
+#include "HashSet.T.H"
 #include "helperFunctionsPar.H"
 
 #include <map>

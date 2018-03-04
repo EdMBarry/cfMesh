@@ -27,7 +27,7 @@ Description
 
 #include "polyMeshGenModifier.H"
 #include "demandDrivenData.H"
-#include "HashSet.H"
+#include "HashSet.T.H"
 #include "boolList.H"
 
 //#define DEBUG_ZIPUP

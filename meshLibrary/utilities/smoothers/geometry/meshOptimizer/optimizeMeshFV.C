@@ -32,7 +32,7 @@ Description
 #include "polyMeshGenAddressing.H"
 #include "polyMeshGenChecks.H"
 #include "partTetMesh.H"
-#include "HashSet.H"
+#include "HashSet.T.H"
 
 #include "tetMeshOptimisation.H"
 #include "boundaryLayerOptimisation.H"

@@ -25,7 +25,7 @@ License
 
 #include "LongList.H"
 #include "Ostream.H"
-#include "token.H"
+#include "token.T.H"
 
 // * * * * * * * * * * * * * * * IOstream Operators  * * * * * * * * * * * * //
 

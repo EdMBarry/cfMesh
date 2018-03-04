@@ -36,13 +36,13 @@ SourceFiles
 
 #include "DynList.H"
 #include "plane.H"
-#include "face.H"
+#include "face.T.H"
 
 #include "triSurf.H"
 #include "triangle.H"
 #include "tetrahedron.H"
 #include "boolList.H"
-#include "HashSet.H"
+#include "HashSet.T.H"
 
 // * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * //
 

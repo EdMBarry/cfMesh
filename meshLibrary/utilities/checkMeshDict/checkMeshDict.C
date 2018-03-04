@@ -27,7 +27,7 @@ Description
 
 #include "checkMeshDict.H"
 #include "patchRefinementList.H"
-#include "PtrList.H"
+#include "PtrList.T.H"
 #include "LongList.H"
 #include "objectRefinement.H"
 #include "coordinateModification.H"

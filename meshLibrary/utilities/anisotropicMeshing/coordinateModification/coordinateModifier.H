@@ -37,7 +37,7 @@ SourceFiles
 #define coordinateModifier_H
 
 #include "word.H"
-#include "point.H"
+#include "point.T.H"
 #include "coordinateModificationList.H"
 
 // * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * //

@@ -35,7 +35,7 @@ Description
 //#define DEBUGSmooth
 
 #ifdef DEBUGSmooth
-#include "Time.H"
+#include "Time.T.H"
 #include "objectRegistry.H"
 #endif
 

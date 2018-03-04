@@ -33,11 +33,11 @@ Description
 #include "boolList.H"
 #include "triSurf.H"
 #include "matrix3D.H"
-#include "HashSet.H"
+#include "HashSet.T.H"
 #include "tetrahedron.H"
 #include "boundBox.H"
-#include "Pair.H"
-#include "Map.H"
+#include "Pair.T.H"
+#include "Map.T.H"
 
 namespace Foam
 {
