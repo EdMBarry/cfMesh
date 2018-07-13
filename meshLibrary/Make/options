@@ -6,7 +6,7 @@ endif
 
 ifeq (OpenFOAM,$(findstring OpenFOAM,$(WM_PROJECT)))
     ifeq (Int,$(findstring Int,$(WM_LABEL_OPTION)))
-        CFMESH_MACROS = -DNoSizeType
+        CFMESH_MACROS = -DNoSizeType -DOpenCFDSpecific
         LIBS =
     else
         CFMESH_MACROS =
